@@ -1,8 +1,7 @@
-#APIMASH Rotten Tomatoes Starter Kit
+#Rotten Tomatoes Starter Kit
 ##Date: 5.10.2013
 ##Version: v1.0.0
 ##Author(s): Bob Familiar
-##URL: http://github.com/apimash/starterkits
 
 ----------
 ###Description
@@ -29,7 +28,7 @@ Blog: [APIMASH Rotten Tomatoes Starter Kit][1]
 
  - Register at Mashery.com (http://developer.mashery.com/)
  - Request a Developer Key from Rotten Tomatoes (http://developer.rottentomatoes.com/)
- - Download the Starter Kit Zip Portfolio from (http://apimash.github.io/StarterKits/)
+ - Download the Starter Kit 
  - Open the Solution in Visual Studio
  - Add your Developer Key in the Globals.cs file
  - Update the reference to the Newtonsoft JSON.NET Library in the APIMASHLib project
@@ -77,7 +76,7 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 
 
   [1]: http://theundocumentedapi.com/index.php/apimash-the-rotten-tomatoes-api-starter-kit/
-  [2]: https://raw.github.com/apimash/StarterKits/master/Windows%20Starter%20Kits/APIMASH_RottenTomatoes_StarterKit/RottenTomatoesScreenshot.png "Rotten Tomatoes Starter Kit"
+  [2]: https://raw.github.com/winappkits/RottenTomatoesAPI/master/Windows8/RottenTomatoesScreenshot.png "Rotten Tomatoes Starter Kit"
   [3]: http://developer.rottentomatoes.com/docs/read/JSON "other API's:"
   [4]: http://developer.mashery.com/iodocs "I/O Docs page"
   [5]: https://github.com/apimash/StarterKits/tree/master/APIMASH_BingMaps_StarterKit "Bing Maps Starter Kit"
