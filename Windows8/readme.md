@@ -80,3 +80,5 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
   [3]: http://developer.rottentomatoes.com/docs/read/JSON "other API's:"
   [4]: http://developer.mashery.com/iodocs "I/O Docs page"
   [5]: https://github.com/apimash/StarterKits/tree/master/APIMASH_BingMaps_StarterKit "Bing Maps Starter Kit"
+  
+  [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/3688b9e8891d7852286f820a676f41f8 "githalytics.com")](http://githalytics.com/winappkits/RottenTomatoesAPI)
