@@ -1,7 +1,7 @@
-#Rotten Tomatoes Starter Kit
-##Date: 5.10.2013
-##Version: v1.0.0
-##Author(s): Bob Familiar
+##Rotten Tomatoes Starter Kit for Windows 8
+###Date: 5.10.2013
+###Version: v1.0.0
+###Author(s): Bob Familiar
 
 ----------
 ###Description
